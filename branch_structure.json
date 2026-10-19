@@ -1,0 +1,18 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "fix/issue-1104-add-a-reproducible-web-typecheck-gate-for-pull",
+    "origin"
+  ],
+  "parent": {
+    "develop": null,
+    "fix/issue-1104-add-a-reproducible-web-typecheck-gate-for-pull": "develop",
+    "origin": "develop"
+  },
+  "order": [
+    "develop",
+    "fix/issue-1104-add-a-reproducible-web-typecheck-gate-for-pull",
+    "origin"
+  ]
+}
